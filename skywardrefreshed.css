@@ -1,0 +1,86 @@
+#loginBrading > img {
+	content: url("https://raw.githubusercontent.com/BenPI88/media/main/skywardrefreshedlogotransparent.png")
+}
+
+#rowBottom > div:nth-child(1) {
+	filter: blur(500px);
+}
+
+div:nth-child(3) > img {
+	filter: blur(500px);
+}
+div:nth-child(4) > a > img {
+	filter: blur(500px);
+}
+div:nth-child(5) img {
+	filter: blur(500px);
+}
+span > span {
+	filter: blur(500px);
+}
+#copyArea {
+	filter: blur(500px);
+}
+#BrowserVersionContainer {
+	filter: blur(500px);
+}
+
+#version {
+	filter: blur(500px);
+}
+#loginDistrict > a {
+	font-family: sans-serif;
+}
+#loginHeaderWrap {
+	background-color: #0090ff;
+  border-radius: 20px;
+}
+#loginDistrict > a {
+	color: white;
+}
+
+#loginBody {
+	background-color: #0090ff;
+  border-radius: 20px;
+}
+
+
+
+#loginBodyWrap {
+	border-radius: 20px;
+}
+#loginBoxWrap {
+	border-radius: 20px;
+}
+#loginBoxWrap {
+	border-right: 50px;
+  border-left: 50px;
+}
+html {
+	background-color: blue;
+}
+#contentWrap {
+	background-image: linear-gradient(to top, blue, #0090ff)
+}
+
+#lblLoginID {
+	color: white;
+}
+#lblPassword {
+	color: white;
+}
+.loginLinks > a {
+	color: white;
+}
+#lblLoginArea {
+	color: white;
+}
+div:nth-child(2) > span {
+	color: white
+}
+#login {
+	border-radius: 50px;
+}
+#password {
+	border-radius: 50px;
+}
